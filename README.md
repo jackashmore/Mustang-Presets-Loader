@@ -10,9 +10,8 @@ With this project, I'm aiming to create an application that scrapes the communit
 Current technologies/tools: USBPcap, Wireshark, Python, and anything else that pops up down the line.
 
 This will require learning about USB sniffing and commands sent over USB connections which I have *zero* experience with.
-
-- Current Progress (3/19/2024):
-    Determined the endpoints on which the amp communicates
-    Grabbed a .pcap of the commands sent when starting the desktop app and plugging the amp in
-    Sent a test preset upload through the desktop app; grabbed the set of commands from the .pcap that indicate this transaction
-    Attempted to edit some of the bytes and re-send the payload to the amp using the Python usb library
+## Current Progress (3/19/2024):
+- Determined the endpoints on which the amp communicates
+- Grabbed a .pcap of the commands sent when starting the desktop app and plugging the amp in
+- Sent a test preset upload through the desktop app; grabbed the set of commands from the .pcap that indicate this transaction
+- Attempted to edit some of the bytes and re-send the payload to the amp using the Python usb library
