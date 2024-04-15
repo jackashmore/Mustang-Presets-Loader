@@ -1,4 +1,4 @@
-# Mustang Presets Loader
+# Mustang Presets Loader - WIP
 I purchased a Fender Mustang LT25 and noticed that it came with 60 slots for preset tones. 30 of these were already populated with customized settings from the manufacturer. 
 
 There is a newer and more expensive version of this amp with Bluetooth capabilities that can interface with the Fender Tone mobile app. Here, you can download community-made presets and upload them to your amp. However, this is not the case with my LT25.
